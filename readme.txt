@@ -57,8 +57,6 @@ This assignment consists of two tasks organized in two separate folders: `Task1`
 
 ## Contact
 If you have any questions, please arise an issue.
-
-Good luck with your assignment!
 ```
 
 This `readme.md` file provides an overview of the assignment, describes the folder structure and tasks, and gives instructions on how to start each task.
