@@ -6,6 +6,10 @@ Here's a `readme.md` file for your frontend assignment:
 ## Overview
 This assignment consists of two tasks organized in two separate folders: `Task1` and `Task2`. Each task has its own `index.html` file to start the project. Additionally, `Task2` includes `index.js` and `jsonData.js` files for dynamic handling of HTML.
 
+## Warning
+**Note:** The website created in this assignment is not responsive. It may not display correctly on devices with different screen sizes such as mobile phones or tablets.
+
+
 ## Folder Structure
 ```
 
